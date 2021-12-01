@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="Monster" version="3.0" targetId="e30aa9669aa74a59b1a33173ff40a854" sideLength="0.050000" topDiameter="0.055000" bottomDiameter="0.055000" sideImage="Monster.Body_scaled.jpg"/>
+        <CylinderTarget name="Redbull" version="3.0" targetId="80d33dde315d48c8aa1d18244f586091" sideLength="0.050000" topDiameter="0.055000" bottomDiameter="0.055000" sideImage="Redbull.Body_scaled.jpg"/>
+        <CylinderTarget name="Aquarius" version="3.0" targetId="38e7b705795a4814a2e9b785331e8c33" sideLength="0.050000" topDiameter="0.055000" bottomDiameter="0.055000" sideImage="Aquarius.Body_scaled.jpg"/>
+        <CylinderTarget name="KAS" version="3.0" targetId="d8e8f968f5424a94833da330d23bc0ab" sideLength="0.050000" topDiameter="0.055000" bottomDiameter="0.055000" sideImage="KAS.Body_scaled.jpg"/>
+        <CylinderTarget name="Fanta" version="3.0" targetId="664f070573b4432d9711352899966625" sideLength="0.050000" topDiameter="0.055000" bottomDiameter="0.055000" sideImage="Fanta.Body_scaled.jpg"/>
+        <CylinderTarget name="Coke" version="3.0" targetId="711bc31383494b7389736f9c1aefe38d" sideLength="0.050000" topDiameter="0.055000" bottomDiameter="0.055000" sideImage="Coke.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
